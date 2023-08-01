@@ -1,0 +1,875 @@
+{
+    "responses": [{
+            "Question": "Hai",
+            "Answer": "Hi, Welcome to SASTRA! How can I assist you today?"
+        },
+        {
+            "Question": "Hi",
+            "Answer": "Hi, Welcome to SASTRA! How can I assist you today?"
+        },
+        {
+            "Question": "Hello",
+            "Answer": "Hi, Welcome to SASTRA! How can I assist you today?"
+        },
+        {
+            "Question": "Namaste",
+            "Answer": "Welcome to SASTRA! How can I assist you today?"
+        },
+        {
+            "Question": "Namasthe",
+            "Answer": "Welcome to SASTRA! How can I assist you today?"
+        },
+        {
+            "Question": "Namaskaram",
+            "Answer": "Welcome to SASTRA! How can I assist you today?"
+        },
+        {
+            "Question": "Namaskarams",
+            "Answer": "Welcome to SASTRA! How can I assist you today?"
+        },
+        {
+            "Question": "Namaskar",
+            "Answer": "Welcome to SASTRA! How can I assist you today?"
+        },
+        {
+            "Question": "Hey",
+            "Answer": "Hi, Welcome to SASTRA! How can I assist you today?"
+        },
+        {
+            "Question": "BTech Courses",
+            "Answer": "This programme comprises 21 (four year) courses and two 5-year integrated courses. Please Visit Below Link to know the B.Tech. admission procedure, fee structure & eligibility details at https://www.sastra.edu/sastraadmissions/"
+        },
+        {
+            "Question": "BTech Programs",
+            "Answer": "This programme comprises 21 courses (Duration: 4-Years) and two 5-year integrated courses. Please Visit Below Link to know the B.Tech. admission, procedure, fee structure & eligibility details at https://www.sastra.edu/sastraadmissions/"
+        },
+        {
+            "Question": "B.tech.",
+            "Answer": "This programme comprises 21 courses (Duration: 4-Years) and two 5-year integrated courses. Please Visit Below Link to know the B.Tech. admission procedure, fee structure & eligibility details at https://www.sastra.edu/sastraadmissions/"
+        },
+        {
+            "Question": "B.Tech",
+            "Answer": "This programme comprises 21 courses (Duration: 4-Years) and two 5-year integrated courses. Please Visit Below Link to know the B.Tech. admission procedure, fee structure & eligibility details at https://www.sastra.edu/sastraadmissions/"
+        },
+        {
+            "Question": "BTech",
+            "Answer": "This programme comprises 21 courses (Duration: 4-Years) and two 5-year integrated courses. Please Visit Below Link to know the B.Tech. admission procedure, fee structure & eligibility details at https://www.sastra.edu/sastraadmissions/"
+        },
+        {
+            "Question": "Eligibility",
+            "Answer": "A pass in the +2 examination with Mathematics & Physics as compulsory subjects of study with either Chemistry / Bio-Technology / Computer Science / Biology and recognized by any State Board / Central Board or any other accepted by SASTRA as equivalent to 10+2 examination, with a minimum +2 aggregate of 60% marks in a single sitting."
+        },
+        {
+            "Question": "Cut off",
+            "Answer": "There is no specific cut off formula practised at SASTRA. Please click the following link regarding the procedure followed in admission.👉 <a href='https://www.sastra.edu/sastraadmissions/'>click here</a>"
+        },
+        {
+            "Question": "Integrated course",
+            "Answer": "We have two 5-year integrated course in B.Tech programmes, 4 courses in M.Sc. Programme (5-Years) & 3 courses in B. Ed. Programme Click here  Link to know the B.Tech. admission, procedure, fee structure & eligibility details at https://www.sastra.edu/sastraadmissions/ "
+        },
+        {
+            "Question": "5 Year Integrated",
+            "Answer": "The 5 year Integrated M.Tech. programme (runs concurrently with B.Tech. programme) till the seventh semester, after which the student completes PG level courses in 8th & 9th semesters and project work during the 10th semester. After successful completion, the student will receive the relevant B.Tech. degree and M.Tech. degree."
+        },
+        {
+            "Question": "Integrated",
+            "Answer": "The 5 year Integrated M.Tech. programme (runs concurrently with B.Tech. programme) till the seventh semester, after which the student completes PG level courses in 8th & 9th semesters and project work during the 10th semester. After successful completion, the student will receive the relevant B.Tech. degree and M.Tech. degree."
+        },
+        {
+            "Question": "B Tech",
+            "Answer": "This programme comprises 21 courses (Duration: 4-Years) and two 5-year integrated courses. Please Visit Below Link to know the B.Tech. admission procedure, fee structure & eligibility details at https://www.sastra.edu/sastraadmissions/"
+        },
+        {
+            "Question": "Engineering",
+            "Answer": "This programme comprises 21 courses (Duration: 4-Years) and two 5-year integrated courses. Please Visit Below Link to know the B.Tech. admission procedure, fee structure & eligibility details at https://www.sastra.edu/sastraadmissions/"
+        },
+        {
+            "Question": "Engineering Programs",
+            "Answer": "This programme comprises 21 courses (Duration: 4-Years) and two 5-year integrated courses. Please Visit Below Link to know the B.Tech. admission procedure, fee structure & eligibility details at https://www.sastra.edu/sastraadmissions/"
+        },
+        {
+            "Question": "Msc Integrated",
+            "Answer": "There are 4 courses available under this programme. Admissions to this 5-year integrated programme shall be done on a rolling basis as and when application forms are received. For all UG arts & science programmes, admissions are based on the qualifying examination marks. Please Visit Below Link to know the admission procedure, fee structure & eligibility details at https://www.sastra.edu/sastraadmissions/ "
+        },
+        {
+            "Question": "Msc",
+            "Answer": "There are 6 courses available under this programme. Admissions to this 2-Years programme shall be done on a rolling basis as and when application forms are received. Please Visit Below Link to know the admission procedure, fee structure & eligibility details at https://www.sastra.edu/sastraadmissions/ "
+        },
+        {
+            "Question": "M.Sc",
+            "Answer": "There are 6 courses available under this programme. Admissions to this 2-Years programme shall be done on a rolling basis as and when application forms are received. Please Visit Below Link to know the admission procedure, fee structure & eligibility details at https://www.sastra.edu/sastraadmissions/ "
+        },
+        {
+            "Question": "M.Tech.",
+            "Answer": "Admission to M.Tech. programmes will be based on overall percentage of marks secured in the qualifying UG/PG degree & it shall be done on a rolling basis as and when application forms are received. Preference will be given to GATE score holders and eligible candidates can receive stipend of Rs: 12,400/- per month. Please Visit Below Link to know the admission procedure, fee structure & eligibility details at https://www.sastra.edu/sastraadmissions/"
+        },
+        {
+            "Question": "mtech",
+            "Answer": "Admission to M.Tech. programmes will be based on overall percentage of marks secured in the qualifying UG/PG degree & it shall be done on a rolling basis as and when application forms are received. Preference will be given to GATE score holders and eligible candidates can receive stipend of Rs: 12,400/- per month. Please Visit Below Link to know the admission procedure, fee structure & eligibility details at https://www.sastra.edu/sastraadmissions/"
+        },
+        {
+            "Question": "mtech?",
+            "Answer": "Admission to M.Tech. programmes will be based on overall percentage of marks secured in the qualifying UG/PG degree & it shall be done on a rolling basis as and when application forms are received. Preference will be given to GATE score holders and eligible candidates can receive stipend of Rs: 12,400/- per month. Please Visit Below Link to know the admission procedure, fee structure & eligibility details at https://www.sastra.edu/sastraadmissions/"
+        },
+        {
+            "Question": "B.Ed.",
+            "Answer": "We have 2 B. Sc. B.Ed. (4 Year Integrated) and 1 B.A. B.Ed. (4 Year Integrated) courses . Admissions to this 4-Year programme shall be done on a rolling basis as and when application forms are received. Please Visit Below Link to know the admission procedure, fee structure & eligibility details at https://www.sastra.edu/sastraadmissions/"
+        },
+        {
+            "Question": "Optometry",
+            "Answer": "It is a collaboration programme with Elite School of Optometry, Sankara Nethralaya, Chennai. Admissions to this programmes shall be done on a rolling basis as and when application forms are received. For all UG arts & science programmes, admissions are based on the qualifying examination marks. Please Visit Below Link to know the admission procedure, fee structure & eligibility details at https://www.sastra.edu/sastraadmissions/ "
+        },
+        {
+            "Question": "B.optom",
+            "Answer": "It is a collaboration programme with Elite School of Optometry, Sankara Nethralaya, Chennai. Admissions to this programmes shall be done on a rolling basis as and when application forms are received. For all UG arts & science programmes, admissions are based on the qualifying examination marks. Please Visit Below Link to know the admission procedure, fee structure & eligibility details at https://www.sastra.edu/sastraadmissions/ "
+        },
+        {
+            "Question": "B.Com Programme",
+            "Answer": "B.Com. CA & B.Com. BFSI courses are available at main campus, Thanjavur and general B.Com. is available at our Kumbakonam campus. Admissions to this programme shall be done on a rolling basis as and when application forms are received. For all UG arts & science programmes, admissions are based on the qualifying examination marks. Please Visit Below Link to know the admission procedure, fee structure & eligibility details at https://www.sastra.edu/sastraadmissions/ "
+        },
+        {
+            "Question": "covid-19",
+            "Answer": "Strictly SOP is followed at the campus. Students who have completed both doses of COVID vaccination are only eligible to attend classes. Wash areas have been installed at various parts of the campus. Santisers are provided to all while entering in to the campus. Premises are frequently sanitised and ensures strict MSD inside the campus"
+        },
+        {
+            "Question": "covid",
+            "Answer": "Strictly SOP is followed at the campus. Students who have completed both doses of COVID vaccination are only eligible to attend classes. Wash areas have been installed at various parts of the campus. Santisers are provided to all while entering in to the campus. Premises are frequently sanitised and ensures strict MSD inside the campus"
+        },
+        {
+            "Question": "Corona Virus",
+            "Answer": "Strictly SOP is followed at the campus. Students who have completed both doses of COVID vaccination are only eligible to attend classes. Wash areas have been installed at various parts of the campus. Santisers are provided to all while entering in to the campus. Premises are frequently sanitised and ensures strict MSD inside the campus"
+        },
+        {
+            "Question": "Pandemic",
+            "Answer": "Strictly SOP is followed at the campus. Students who have completed both doses of COVID vaccination are only eligible to attend classes. Wash areas have been installed at various parts of the campus. Santisers are provided to all while entering in to the campus. Premises are frequently sanitised and ensures strict MSD inside the campus"
+        },
+        {
+            "Question": "Corona",
+            "Answer": "Strictly SOP is followed at the campus. Students who have completed both doses of COVID vaccination are only eligible to attend classes. Wash areas have been installed at various parts of the campus. Santisers are provided to all while entering in to the campus. Premises are frequently sanitised and ensures strict MSD inside the campus"
+        },
+        {
+            "Question": "Dress code",
+            "Answer": "Boys to wear only shirts/full pants . T-shirts (sleeved or sleeveless), shorts, ¾ pants are strictly not allowed. Girls to wear only chudidhar with duppetta."
+        },
+        {
+            "Question": "Bcom",
+            "Answer": "B.Com. CA & B.Com. BFSI courses are available at main campus, Thanjavur and general B.Com. is available at our Kumbakonam campus. Admissions to this programme shall be done on a rolling basis as and when application forms are received. For all UG arts & science programmes, admissions are based on the qualifying examination marks. Please Visit Below Link to know the admission procedure, fee structure & eligibility details at https://www.sastra.edu/sastraadmissions/ "
+        },
+        {
+            "Question": "MBA",
+            "Answer": "The admissions are made on the basis of the scores in the qualifying UG / PG degree programme and a seperate entrance exam will be conducted. Based on the score and and scores in the qualifying UG / PG degree programme admission will be done."
+        },
+        {
+            "Question": "Fine Arts",
+            "Answer": "Admissions to this programmes shall be done on a rolling basis as and when application forms are received.Please Visit Below Link to know the admission procedure, fee structure & eligibility details at https://www.sastra.edu/sastraadmissions/ "
+        },
+        {
+            "Question": "Student Web Interface",
+            "Answer": "Please visit <a href='https://webstream.sastra.edu/sastrapwi/'>click here</a>"
+        },
+        {
+            "Question": "SWI",
+            "Answer": "Please visit <a href='https://webstream.sastra.edu/sastrapwi/'>click here</a>"
+        },
+        {
+            "Question": "undergraduate",
+            "Answer": "The programme and course availability can be inferred from https://sastra.edu/admissions/undergraduate.html"
+        },
+        {
+            "Question": "UG",
+            "Answer": "The programme and course availability can be inferred from https://sastra.edu/admissions/undergraduate.html"
+        },
+        {
+            "Question": "postgraduate",
+            "Answer": "The programme and course availability can be inferred from https://sastra.edu/admissions/undergraduate.html"
+        },
+        {
+            "Question": "PG",
+            "Answer": "The programme and course availability can be inferred from https://sastra.edu/admissions/undergraduate.html"
+        },
+        {
+            "Question": "Quota",
+            "Answer": "Please reach out to our Admission Team 04362 264101-108"
+        },
+        {
+            "Question": "NRI",
+            "Answer": "As per the Government norms, provision is made for NRI admissions. Interested students may kindly contact the Office of admissions 04362 264101-108"
+        },
+        {
+            "Question": "Kumbakonam campus",
+            "Answer": "We offer B. Sc., B.Com, B.B.A., B.C.A., M.Sc. (Computer Science, Mathematics, Bio-Chemistry & Microbiology), M.Com. and B. Tech. (CSE & ECE) in Srinivasa Ramanujan Centre (off-campus centre of SASTRA recognized by Govt. of India) in Kumbakonam. Please visit https://src.sastra.edu/"
+        },
+        {
+            "Question": "SRC campus",
+            "Answer": "We offer B. Sc., B.Com, B.B.A., B.C.A., M.Sc. (Computer Science, Mathematics, Bio-Chemistry & Microbiology), M.Com. and B. Tech. (CSE & ECE) in Srinivasa Ramanujan Centre (off-campus centre of SASTRA recognized by Govt. of India) in Kumbakonam. Please visit https://src.sastra.edu/"
+        },
+        {
+            "Question": "src",
+            "Answer": "We offer B. Sc., B.Com, B.B.A., B.C.A., M.Sc. (Computer Science, Mathematics, Bio-Chemistry & Microbiology), M.Com. and B. Tech. (CSE & ECE) in Srinivasa Ramanujan Centre (off-campus centre of SASTRA recognized by Govt. of India) in Kumbakonam. Please visit https://src.sastra.edu/"
+        },
+        {
+            "Question": "off campus",
+            "Answer": "We offer B. Sc., B.Com, B.B.A., B.C.A., M.Sc. (Computer Science, Mathematics, Bio-Chemistry & Microbiology), M.Com. and B. Tech. (CSE & ECE) in Srinivasa Ramanujan Centre (off-campus centre of SASTRA recognized by Govt. of India) in Kumbakonam. Please visit https://src.sastra.edu/"
+        },
+        {
+            "Question": "thanjavur campus",
+            "Answer": "SASTRA is a Category 1 University as per UGC Graded Autonomy Regulations and accredited by the National Assessment & Accreditation Council (NAAC) with “A++” grade . SASTRA has become the first university in India to have the maximum number of undergraduate programmes accredited across its two campuses (Thanjavur and Kumbakonam), demonstrating that the programmes are aligned with internationally recognised standards. Please visit www.sastra.edu"
+        },
+        {
+            "Question": "fee",
+            "Answer": "Please visit below site to understand the Fee structure for various Courses https://sastra.edu/admissions/tuition-fees/fee-structure.html"
+        },
+        {
+            "Question": "fees",
+            "Answer": "Please visit below site to understand the Fee structure for various Courses https://sastra.edu/admissions/tuition-fees/fee-structure.html"
+        },
+        {
+            "Question": "btech fees",
+            "Answer": "Details for Btech Fees: https://sastra.edu/admissions/tuition-fees/b-tech-m-tech-5-yrs-integrated-programmes.html"
+        },
+        {
+            "Question": "mtech fees",
+            "Answer": "Details for Mtech Fees: https://sastra.edu/admissions/tuition-fees/m-tech.html"
+        },
+        {
+            "Question": "refund",
+            "Answer": "Please reach out to our Admission Team 04362 264101-108"
+        },
+        {
+            "Question": "Girls hostel",
+            "Answer": "There are nine hostels for boys and five for girls. First year B. Tech. students will be provided shared accommodation. The charges for food will be at actual based on dividing system and will approximately be around Rs 3,000 per month. You can assume that you will stay for 10 months in a calendar year. Single room, Two-in-one, Three-in-one and Four-in-one (with or w/o bath attached facilities) will be available from second year onwards. The annual rent will vary depending on the room type."
+        },
+        {
+            "Question": "Girls hostels",
+            "Answer": "There are nine hostels for boys and five for girls. First year B. Tech. students will be provided shared accommodation. The charges for food will be at actual based on dividing system and will approximately be around Rs 3,000 per month. You can assume that you will stay for 10 months in a calendar year. Single room, Two-in-one, Three-in-one and Four-in-one (with or w/o bath attached facilities) will be available from second year onwards. The annual rent will vary depending on the room type."
+        },
+        {
+            "Question": "Hostel",
+            "Answer": "There are nine hostels for boys and five for girls. First year B. Tech. students will be provided shared accommodation. The charges for food will be at actual based on dividing system and will approximately be around Rs 3,000 per month. You can assume that you will stay for 10 months in a calendar year. Single room, Two-in-one, Three-in-one and Four-in-one (with or w/o bath attached facilities) will be available from second year onwards. The annual rent will vary depending on the room type."
+        },
+        {
+            "Question": "Hostel fee",
+            "Answer": "There are nine hostels for boys and five for girls. First year B. Tech. students will be provided shared accommodation. The charges for food will be at actual based on dividing system and will approximately be around Rs 3,000 per month. You can assume that you will stay for 10 months in a calendar year. Single room, Two-in-one, Three-in-one and Four-in-one (with or w/o bath attached facilities) will be available from second year onwards. The annual rent will vary depending on the room type."
+        },
+        {
+            "Question": "Hostel fees",
+            "Answer": "There are nine hostels for boys and five for girls. First year B. Tech. students will be provided shared accommodation. The charges for food will be at actual based on dividing system and will approximately be around Rs 3,000 per month. You can assume that you will stay for 10 months in a calendar year. Single room, Two-in-one, Three-in-one and Four-in-one (with or w/o bath attached facilities) will be available from second year onwards. The annual rent will vary depending on the room type."
+        },
+        {
+            "Question": "Cell phone",
+            "Answer": "Yes, you can use phone in Sastra university but you can't use phone inside your class rooms"
+        },
+        {
+            "Question": "Mobile",
+            "Answer": "Yes, you can use Mobile in Sastra university but you can't use phone inside your class rooms"
+        },
+        {
+            "Question": "Uniform",
+            "Answer": "There is no uniform at SASTRA UNIVERSITY except lab periods and for School of Law"
+        },
+        {
+            "Question": "campus interview",
+            "Answer": "SASTRA has been ranked among the top engineering colleges in India as it has good infrastructure, placements and faculty. To have a detailed view about the placement details, please visit sastra.edu/infrastructure/amenities/department-of-t-p.html"
+        },
+        {
+            "Question": "Placement",
+            "Answer": "SASTRA has been ranked among the top engineering colleges in India as it has good infrastructure, placements and faculty. To have a detailed view about the placement details, please visit sastra.edu/infrastructure/amenities/department-of-t-p.html"
+        },
+        {
+            "Question": "Job oppurtunities at SASTRA",
+            "Answer": "Please contact 04362-264107 and speak with our support executive for further assistance"
+        },
+        {
+            "Question": "job",
+            "Answer": "Please contact 04362-264107 and speak with our support executive for further assistance"
+        },
+        {
+            "Question": "Admission 2022",
+            "Answer": "Admissions to all programmes are strictly based on merit. Admission to the B.Tech./5 year Integrated M.Tech. programme will be conducted under two streams. All the applicants will be eligible for both the stream and need not submit two separate application form. This application form will be considered for the both streams. Please Visit Below Link to understand the complete admission procedure at SASTRA https://www.sastra.edu/sastraadmissions/"
+        },
+        {
+            "Question": "Admission 2022-23",
+            "Answer": "Admissions to all programmes are strictly based on merit. Admission to the B.Tech./5 year Integrated M.Tech. programme will be conducted under two streams. All the applicants will be eligible for both the stream and need not submit two separate application form. This application form will be considered for the both streams. Please Visit Below Link to understand the complete admission procedure at SASTRA https://www.sastra.edu/sastraadmissions/"
+        },
+        {
+            "Question": "JEE compulsary",
+            "Answer": "We have 50% of seats allotted for the students with JEE marks. Further details and mode of admission process please check https://www.sastra.edu/sastraadmissions/ "
+        },
+        {
+            "Question": "Entrance exam",
+            "Answer": "No. We do not conduct any entrance exam for any programmes except MBA admissions"
+        },
+        {
+            "Question": "Entrance",
+            "Answer": "No. We do not conduct any entrance exam for any programmes except MBA admissions"
+        },
+        {
+            "Question": "Application",
+            "Answer": "Application forms will be available online from the mid week of April 2022 and the last date for submission of completed application forms with JEE Scores and +2 Marks will be decided susequently. The agenda of the admission process will be updated soon"
+        },
+        {
+            "Question": "Application form",
+            "Answer": "Application forms will be available online from the mid week of April 2022 and the last date for submission of completed application forms with JEE Scores and +2 Marks will be decided susequently. The agenda of the admission process will be updated soon"
+        },
+        {
+            "Question": "separate application for Stream 1 & Stream 2",
+            "Answer": "No. Applicants are advised to submit application with results of +2 and JEE (Main) 2022 along with relevant photocopies. JEE (Main) 2022 details is mandatory (if appeared) for those who are applying under Stream 1. The applicant is advised to enter both +2 & JEE (Main) 2022 details in his / her own interest as they can attend both counselling using the same application form."
+        },
+        {
+            "Question": "Stream 1",
+            "Answer": "Applicants are advised to submit application with results of +2 and JEE (Main) 2022 along with relevant photocopies. JEE (Main) 2022 details is mandatory (if appeared) for those who are applying under Stream 1. The applicant is advised to enter both +2 & JEE (Main) 2022 details in his / her own interest as they can attend both counselling using the same application form."
+        },
+        {
+            "Question": "Counselling date",
+            "Answer": "Date of Counselling for B.Tech. (Stream 1 & 2) will be decided soon and will be held for atleast 3 weeks. Counselling for admissions to Law programmes shall be held 2 weeks after the release of CLAT 2021 scores. Admissions to all other UG / PG programmes shall be done on a rolling basis as and when application forms are received"
+        },
+        {
+            "Question": "counselling",
+            "Answer": "Date of Counselling for B.Tech. (Stream 1 & 2) will be decided soon and will be held for atleast 3 weeks. Counselling for admissions to Law programmes shall be held 2 weeks after the release of CLAT 2021 scores. Admissions to all other UG / PG programmes shall be done on a rolling basis as and when application forms are received"
+        },
+        {
+            "Question": "Counseling date",
+            "Answer": "Date of Counselling for B.Tech. (Stream 1 & 2) will be decided soon and will be held for atleast 3 weeks. Counselling for admissions to Law programmes shall be held 2 weeks after the release of CLAT 2021 scores. Admissions to all other UG / PG programmes shall be done on a rolling basis as and when application forms are received"
+        },
+        {
+            "Question": "rank list",
+            "Answer": "Application forms will be available online from the mid week of April 2022 and the last date for submission of completed application forms with JEE Scores and +2 Marks will be decided susequently. The rank list for B.Tech. will be released by 9 pm on the last date of application form and will be available at www.sastra.edu. Based on the results, students will participate in counseling for admissions. The agenda of the admission process will be updated soon"
+        },
+        {
+            "Question": "law",
+            "Answer": "SASTRA is having 3 courses under LAW programme. Admissions will be based on the CLAT 2021 Scores and +2 aggregate taken in the ratio of 25% : 75% respectively."
+        },
+        {
+            "Question": "Law Admissions",
+            "Answer": "SASTRA is having 3 courses under LAW programme. Admissions will be based on the CLAT 2021 Scores and +2 aggregate taken in the ratio of 25% : 75% respectively."
+        },
+        {
+            "Question": "Law admission",
+            "Answer": "SASTRA is having 3 courses under LAW programme. Admissions will be based on the CLAT 2021 Scores and +2 aggregate taken in the ratio of 25% : 75% respectively."
+        },
+        {
+            "Question": "CLAT",
+            "Answer": "Yes, CLAT score is compulsary for Law admissions.Counselling for admissions to Law programmes shall be held 2 weeks after the release of CLAT 2021 scores. To know further criterias, please check https://www.sastra.edu/sastraadmissions/ "
+        },
+        {
+            "Question": "LLB",
+            "Answer": "Courses Offered: \nB.A. LL.B. (Hons.) - 5 Year Integrated Programme \nB.B.A. LL.B. (Hons.) - 5 Year Integrated Programme \nB.Com. LL.B. (Hons.) - 5 Year Integrated Programme"
+        },
+        {
+            "Question": "SASTRA",
+            "Answer": "SASTRA is a Category 1 University as per UGC Graded Autonomy Regulations and accredited by the National Assessment & Accreditation Council (NAAC) with “A++” grade . SASTRA has become the first university in India to have the maximum number of undergraduate programmes accredited across its two campuses (Thanjavur and Kumbakonam), demonstrating that the programmes are aligned with internationally recognised standards."
+        },
+        {
+            "Question": "faculty",
+            "Answer": "To Understand about our Eminent professors at each program please visit below site https://sastra.edu/academics/faculty.html"
+        },
+        {
+            "Question": "faculties",
+            "Answer": "To Understand about our Eminent professors at each program please visit below site https://sastra.edu/academics/faculty.html"
+        },
+        {
+            "Question": "ECE",
+            "Answer": "ECE in SASTRA is a very good stream and also one of the most chosen. The syllabus is continuously reviewed and updated.The labs are good and a good amount of research is being done in this field in SASTRA. Thus the academically it is a great option if you wish to chose ECE. https://seee.sastra.edu/"
+        },
+        {
+            "Question": "Chemical",
+            "Answer": "One of the Best branches at SASTRA. Visit below site to understand more on this department https://scbt.sastra.edu/"
+        },
+        {
+            "Question": "Biotech",
+            "Answer": "One of the Best branches at SASTRA. Visit below site to understand more on this department https://scbt.sastra.edu/"
+        },
+        {
+            "Question": "civil",
+            "Answer": "One of the Best branches at SASTRA. Visit below site to understand more on this department https://civil.sastra.edu/"
+        },
+        {
+            "Question": "computing",
+            "Answer": "The School of Computing offers multiple programmes. To understand more https://soc.sastra.edu/"
+        },
+        {
+            "Question": "computer science",
+            "Answer": "The School of Computing offers multiple programmes. To understand more https://soc.sastra.edu/"
+        },
+        {
+            "Question": "mechanical",
+            "Answer": "One of the Best branches at SASTRA. Visit below site to understand more on this department https://mech.sastra.edu/"
+        },
+        {
+            "Question": "law",
+            "Answer": "Started in the year 2008, The main objective of the School of Law at SASTRA is to provide students diverse knowledge in the fields of Social Studies, Business and Economics integrated with legal education . To know about our law school https://law.sastra.edu/"
+        },
+        {
+            "Question": "Canteen",
+            "Answer": "The canteen at SASTRA provides the right ambience for informal get-togethers and serves a variety of culinary delights. The Students run CANOPY and Gurunath stores at SASTRA are other vibrant locations providing high quality cuisine, books, souvenirs and stationery"
+        },
+        {
+            "Question": "food",
+            "Answer": "The canteen at SASTRA provides the right ambience for informal get-togethers and serves a variety of culinary delights. The Students run CANOPY and Gurunath stores at SASTRA are other vibrant locations providing high quality cuisine, books, souvenirs and stationery"
+        },
+        {
+            "Question": "wifi",
+            "Answer": "Yes, Students can have unlimited WI-FI access through out the campus. There is a registration process available at our TIFAC-Core"
+        },
+        {
+            "Question": "guest house",
+            "Answer": "Yes, we do have accomodation facility at the campus. Please contact 04362-264101 and speak with our support executive for further assistance"
+        },
+        {
+            "Question": "Library",
+            "Answer": "\"Jayandra Vihar\", the Central Library of SASTRA is an architectural elegance over an area of about 4,340 sq. m with modern study area, audio–visual room, internet and reprographic facilities. It is the nerve centre of the entire campus catering to the literary and knowledge pursuits of the faculty and students. To know more, please visit https://www.sastra.edu/infrastructure/library.html"
+        },
+        {
+            "Question": "Bank",
+            "Answer": "A full-fledged branches of the CUB & Indian Overseas Bank are actively operational at SASTRA campus with ATMs."
+        },
+        {
+            "Question": "Certificate Verification",
+            "Answer": "Please visit the below link to register https://www.verismart.in/everify/sastra-university/"
+        },
+        {
+            "Question": "Transcript",
+            "Answer": "You can get a detailed description and application form at https://www.sastra.edu/useful-links/transcript-request.html"
+        },
+        {
+            "Question": "NCC",
+            "Answer": "Please contact 04362-264101 and speak with our support executive for further assistance"
+        },
+        {
+            "Question": "NSS",
+            "Answer": "Please contact 04362-264101 and speak with our support executive for further assistance"
+        },
+        {
+            "Question": "Scholarship",
+            "Answer": "SASTRA Awards dean's Merit Scholarship for top 2% & top 10% of students, selected by the concern schools. Apart from that, we coordinates various scholarship Govermental & Non-Governmental schemes. Feel free to reach out our O/o the Scholarships via 04362-264106; Extn: 2280 . For PG scholarships, supported by AICTE, call to the extn. no: 2108"
+        },
+        {
+            "Question": "NSP",
+            "Answer": "Yes, we coordinate with National Scholarship Portal. Feel free to reach out our O/o the Scholarships via 04362-264106; Extn: 228"
+        },
+        {
+            "Question": "Scholarship",
+            "Answer": "We coordinate with National Scholarship Portal. Feel free to reach out our O/o the Scholarships via 04362-264106; Extn: 228"
+        },
+        {
+            "Question": "National Scholarship Portal",
+            "Answer": "Yes, we coordinate with National Scholarship Portal. Feel free to reach out our O/o the Scholarships via 04362-264106; Extn: 228"
+        },
+        {
+            "Question": "Scholarship documents to be submitted",
+            "Answer": "Image to be displayed"
+        },
+        {
+            "Question": "Renewal scholarship",
+            "Answer": "Image to be displayed"
+        },
+        {
+            "Question": "Eligibility for scholarship",
+            "Answer": "For Scholarships thru' NSP, the eligibility can be verified at https://scholarships.gov.in/fresh/schemeEligibiltyPage"
+        },
+        {
+            "Question": "Seat block",
+            "Answer": "No. Admission will be based only on merit after the rank list is released. Only NRI sponsored students' can approach the Office of Admissions for more admission information."
+        },
+        {
+            "Question": "Seat reservation",
+            "Answer": "No. Admission will be based only on merit after the rank list is released. Only NRI sponsored students' can approach the Office of Admissions for more admission information."
+        },
+        {
+            "Question": "Application form",
+            "Answer": "In line with the COVID protocol and to also reduce the carbon footprint and increase transparency in the admission, the entire admission process –application – admission-tuition fee payment – enrolment – withdrawal shall be made online only.Only for non-engineering programmes offered in SRC, Kumbakonam application form can also be collected in person from the Office of Admissions at SASTRA Deemed University campus in Thanjavur and Kumbakonam.Application forms can also be downloaded at www.sastra.edu. Filled applications can also be sent by post along with application fee DD favouring SASTRA payable at Thanjavur. DD must be sent to Office of Admissions, SASTRA Deemed University, Thanjavur – 613 401, Tamil Nadu."
+        },
+        {
+            "Question": "Irrelevant key",
+            "Answer": "Please rephrase or ask any other question. Or Please speak with our support executive"
+        },
+        {
+            "Question": "MCA?",
+            "Answer": "The admissions are made on the basis of the scores in the qualifying UG / PG degree programme for this 2-years programme & shall be done on a rolling basis as and when application forms are received. Based on the score in the qualifying UG / PG degree programme admission will be done."
+        },
+        {
+            "Question": "MCA",
+            "Answer": "The admissions are made on the basis of the scores in the qualifying UG / PG degree programme for this 2-years programme & shall be done on a rolling basis as and when application forms are received. Based on the score in the qualifying UG / PG degree programme admission will be done."
+        },
+        {
+            "Question": "M.C.A",
+            "Answer": "The admissions are made on the basis of the scores in the qualifying UG / PG degree programme for this 2-years programme & shall be done on a rolling basis as and when application forms are received. Based on the score in the qualifying UG / PG degree programme admission will be done."
+        },
+        {
+            "Question": "Contact",
+            "Answer": "Feel free to speak with our support executive at 04362-264101-108"
+        },
+        {
+            "Question": "Degree certificate",
+            "Answer": "Degree certificates can be received from the O/o the Registrar, Admin block-First floor on all working days betwwen 09:00 am and 04:30 pm"
+        },
+        {
+            "Question": "ok",
+            "Answer": "Thanks for Reaching SASTRA University."
+        },
+        {
+            "Question": "thanks",
+            "Answer": "Welcome!"
+        },
+        {
+            "Question": "Thank u",
+            "Answer": "Welcome!"
+        },
+        {
+            "Question": "Thank you",
+            "Answer": "Welcome!"
+        },
+        {
+            "Question": "hell",
+            "Answer": "Thanks ! Wish you the same"
+        },
+        {
+            "Question": "bye",
+            "Answer": "Thanks for Reaching SASTRA University."
+        },
+        {
+            "Question": "hate",
+            "Answer": "Thanks ! Wish you the same"
+        },
+        {
+            "Question": "goodbye",
+            "Answer": "Thanks for Reaching SASTRA University."
+        },
+        {
+            "Question": "quit",
+            "Answer": "Bye Bye"
+        },
+        {
+            "Question": "Admission",
+            "Answer": "Admissions to all programmes are strictly based on merit. Admission to the B.Tech./5 year Integrated M.Tech. programme will be conducted under two streams. All the applicants will be eligible for both the stream and need not submit two separate application form. This application form will be considered for the both streams. Please Visit Below Link to understand the complete admission procedure at SASTRA https://www.sastra.edu/sastraadmissions/"
+        },
+        {
+            "Question": "Admissions",
+            "Answer": "Admissions to all programmes are strictly based on merit. Admission to the B.Tech./5 year Integrated M.Tech. programme will be conducted under two streams. All the applicants will be eligible for both the stream and need not submit two separate application form. This application form will be considered for the both streams. Please Visit Below Link to understand the complete admission procedure at SASTRA https://www.sastra.edu/sastraadmissions/"
+        },
+        {
+            "Question": "vanakkam",
+            "Answer": "Vanakkam!"
+        },
+        {
+            "Question": "Admission start",
+            "Answer": "Application forms will be available online from the mid week of April 2022 and the last date for submission of completed application forms with JEE Scores and +2 Marks will be decided susequently. The agenda of the admission process will be updated soon"
+        },
+        {
+            "Question": "student mail",
+            "Answer": "http://mail.sastra.ac.in/"
+        },
+        {
+            "Question": "student email",
+            "Answer": "http://mail.sastra.ac.in/"
+        },
+        {
+            "Question": "schools",
+            "Answer": "There are various Engineering Schools available at SASTRA University. To understand Each School https://sastra.edu/academics/schools.html"
+        },
+        {
+            "Question": "Departments",
+            "Answer": "There are various Engineering Schools available at SASTRA University. To understand Each School https://sastra.edu/academics/schools.html"
+        },
+        {
+            "Question": "how are you",
+            "Answer": "Better now that you asked.How can i help you?"
+        },
+        {
+            "Question": "how are u",
+            "Answer": "Better now that you asked.How can i help you?"
+        },
+        {
+            "Question": "how r u",
+            "Answer": "Better now that you asked.How can i help you?"
+        },
+        {
+            "Question": "hw r u",
+            "Answer": "Better now that you asked.How can i help you?"
+        },
+        {
+            "Question": "SASTRA Rank",
+            "Answer": "Every seat is allocated on basis of rank given by SASTRA which is calculated by 50% of board mark and 50% of JEE marks. Please refer https://www.sastra.edu/sastraadmissions/"
+        },
+        {
+            "Question": "chancellor",
+            "Answer": "Prof. R. Sethuraman https://www.sastra.edu/about-us/leadership/chancellor.html"
+        },
+        {
+            "Question": "vice chancellor",
+            "Answer": "Dr. S. Vaidhyasubramaniam- VICE-CHANCELLOR - SASTRA University.A policy ideator, teacher & student. https://www.sastra.edu/about-us/leadership/message-from-chancellor.html"
+        },
+        {
+            "Question": "VC",
+            "Answer": "Dr. S. Vaidhyasubramaniam- VICE-CHANCELLOR - SASTRA University.A policy ideator, teacher & student. https://www.sastra.edu/about-us/leadership/message-from-chancellor.html"
+        },
+        {
+            "Question": "vaidy",
+            "Answer": "Dr. S. Vaidhyasubramaniam- VICE-CHANCELLOR - SASTRA University.A policy ideator, teacher & student. https://www.sastra.edu/about-us/leadership/message-from-chancellor.html"
+        },
+        {
+            "Question": "vaidhy",
+            "Answer": "Dr. S. Vaidhyasubramaniam- VICE-CHANCELLOR - SASTRA University.A policy ideator, teacher & student. https://www.sastra.edu/about-us/leadership/message-from-chancellor.html"
+        },
+        {
+            "Question": "Dean P&D",
+            "Answer": "Dr.S. Swaminathan https://www.sastra.edu/about-us/leadership/dean,-planning-development.html"
+        },
+        {
+            "Question": "swami",
+            "Answer": "Dr.S. Swaminathan https://www.sastra.edu/about-us/leadership/dean,-planning-development.html"
+        },
+        {
+            "Question": "swamy",
+            "Answer": "Dr.S. Swaminathan https://www.sastra.edu/about-us/leadership/dean,-planning-development.html"
+        },
+        {
+            "Question": "P&D",
+            "Answer": "Dr.S. Swaminathan https://www.sastra.edu/about-us/leadership/dean,-planning-development.html"
+        },
+        {
+            "Question": "CeNTAB",
+            "Answer": "The Centre for Nanotechnology & Advanced Biomaterials. The Centre for Nanotechnology & Advanced Biomaterials (CeNTAB) was started in 2005 and dedicated to the nation by His Excellency Dr. A. P. J. Abdul Kalam, then President of India. SASTRA has proactively established this Centre with a view to use Nanotechnology to develop meaningful solutions that would upgrade the quality of life and society. Please visit https://sas.sastra.edu/centab/ to know about further"
+        },
+        {
+            "Question": "ASK",
+            "Answer": "Anusandhan Kendra is a part of SASTRA’s interdisciplinary research initiative integrating Engineering, Life Sciences, Physics & Chemistry. Constructed over an area of 2,00,000 Sq.ft. at a cost of Rs. 42 Crores, this facility houses 76 research labs with state-of- the art facilities like Microscopy Suite(FE-TEM,FE-SEM,AFM,Confocal,etc…), Spectroscopy Suite(XPS, ICPMS,LCMS/MS,etc…) besides other Major equipment and over 20 research labs with a focus on Materials, Sensors, Fluidics etc. at the Nanoscale besides other advanced facilities. In addition, stand-alone research is also actively pursued in the individual academic schools."
+        },
+        {
+            "Question": "Registrar",
+            "Answer": "Dr. R. Chandramouli https://www.sastra.edu/about-us/leadership/registrar.html"
+        },
+        {
+            "Question": "law Counselling",
+            "Answer": "Counselling for admissions to Law programmes shall be held 2 weeks after the release of CLAT 2021 scores."
+        },
+        {
+            "Question": "capitation",
+            "Answer": "No donations or capitation fee. Kindly bring it to the notice of the Office of Admissions if any unauthorized persons / agency approaches you promising admissions."
+        },
+        {
+            "Question": "capitation FEE",
+            "Answer": "No donations or capitation fee. Kindly bring it to the notice of the Office of Admissions if any unauthorized persons / agency approaches you promising admissions."
+        },
+        {
+            "Question": "capitation fees",
+            "Answer": "No donations or capitation fee. Kindly bring it to the notice of the Office of Admissions if any unauthorized persons / agency approaches you promising admissions."
+        },
+        {
+            "Question": "donation",
+            "Answer": "No donations or capitation fee. Kindly bring it to the notice of the Office of Admissions if any unauthorized persons / agency approaches you promising admissions."
+        },
+        {
+            "Question": "donations",
+            "Answer": "No donations or capitation fee. Kindly bring it to the notice of the Office of Admissions if any unauthorized persons / agency approaches you promising admissions."
+        },
+        {
+            "Question": "SHRI",
+            "Answer": "SASTRA's Hub for Research & Innovation. This was inaugurated by Shri N. Chandrasekaran, CEO & MD, M/s Tata Consultancy Services Ltd."
+        },
+        {
+            "Question": "distance education",
+            "Answer": "SASTRA Deemed University aims at providing an alternative informal channel through online learning mode for those who seek higher education, supplements the efforts of campus-based conventional higher education system. https://www.sastra.edu/dodeprogramme/index.php"
+        },
+        {
+            "Question": "online distance",
+            "Answer": "SASTRA Deemed University aims at providing an alternative informal channel through online learning mode for those who seek higher education, supplements the efforts of campus-based conventional higher education system. https://www.sastra.edu/dodeprogramme/index.php"
+        },
+        {
+            "Question": "DAKSH",
+            "Answer": "DAKSH, the international techno-management festival of SASTRA University, is an annual event comprising of a myriad of events involving all trades of engineering. It promises to not only be educating but also refreshing for each participant as it attempts to cross boundaries of knowledge beyond textbooks and classrooms."
+        },
+        {
+            "Question": "Parent Web Interface",
+            "Answer": "https://webstream.sastra.edu/sastraparentweb/"
+        },
+        {
+            "Question": "Kuruksastra",
+            "Answer": "Kuruksastra, SASTRA's cultural bonanza consists of arts, music, literary events(English, Tamil and Hindi) and dance. Top Institutes from all over India turn up to give fierce competition to each other in the race to win the ultimate prize- the title of overall championship at Kuruksastra."
+        },
+        {
+            "Question": "All India Rank",
+            "Answer": "40% will be for students who have completed X and XII in schools outside Tamil Nadu."
+        },
+        {
+            "Question": "Tamil Nadu Rank",
+            "Answer": "30% of the intake will be offered to those who complete X and XII in schools within Tamilnadu (Puducherry included)."
+        },
+        {
+            "Question": "Trichy Rank",
+            "Answer": "We admit 20 per cent (10 per cent each from Trichy and Tanjavur) in the BTech courses, and the additional 10 per cent shall be drawn based on merit from among the student applicants who have completed their Class 10th and Class 12th in the Thanjavur & Trichy school districts."
+        },
+        {
+            "Question": "Thanjavur Rank",
+            "Answer": "We admit 20 per cent (10 per cent each from Trichy and Tanjavur) in the BTech courses, and the additional 10 per cent shall be drawn based on merit from among the student applicants who have completed their Class 10th and Class 12th in the Thanjavur & Trichy school districts."
+        },
+        {
+            "Question": "All India quota",
+            "Answer": "40% will be for students who have completed X and XII in schools outside Tamil Nadu."
+        },
+        {
+            "Question": "Tamil Nadu quota",
+            "Answer": "30% of the intake will be offered to those who complete X and XII in schools within Tamilnadu (Puducherry included)."
+        },
+        {
+            "Question": "Trichy quota",
+            "Answer": "We admit 20 per cent (10 per cent each from Trichy and Tanjavur) in the BTech courses, and the additional 10 per cent shall be drawn based on merit from among the student applicants who have completed their Class 10th and Class 12th in the Thanjavur & Trichy school districts."
+        },
+        {
+            "Question": "Thanjavur quota",
+            "Answer": "We admit 20 per cent (10 per cent each from Trichy and Tanjavur) in the BTech courses, and the additional 10 per cent shall be drawn based on merit from among the student applicants who have completed their Class 10th and Class 12th in the Thanjavur & Trichy school districts."
+        },
+        {
+            "Question": "Harassment",
+            "Answer": "The Management of SASTRA has always endeavoured towards policy compliance & establishing uncompromising standards to ensure that the campus is free from any form of sexual harassment and takes stringent action when such instances comes to its notice."
+        },
+        {
+            "Question": "ragging",
+            "Answer": "The Management of SASTRA has always endeavoured towards policy compliance & establishing uncompromising standards to ensure that the campus is free from any form of sexual harassment, ragging and takes stringent action when such instances comes to its notice."
+        },
+        {
+            "Question": "INNOVATION",
+            "Answer": "SASTRA houses two technology business incubators (TBI) with the support from Department of Science & Technology (DST) and Department of Biotechnology (DBT).https://www.sastra.edu/research/innovation.html"
+        },
+        {
+            "Question": "safety",
+            "Answer": "The Sexual Grievances committee as per Vishaka Guidelines now functioning as the Internal Complaints Committee (ICC) has acted on complaints received and the strictest action will be taken against erring staff/girl students leading to expulsion and termination. We always stick in to the guidence and we have appointed a counsellor for girl student safety and who can be contacted round the clock"
+        },
+        {
+            "Question": "admission department",
+            "Answer": "To reach the admission department, you are free to call 04362-264101-108; Extn:2107/2108/2280"
+        },
+        {
+            "Question": "safe",
+            "Answer": "The Sexual Grievances committee as per Vishaka Guidelines now functioning as the Internal Complaints Committee (ICC) has acted on complaints received and the strictest action will be taken against erring staff/girl students leading to expulsion and termination. We always stick in to the guidence and we have appointed a counsellor for girl student safety and who can be contacted round the clock"
+        },
+        {
+            "Question": "TBI",
+            "Answer": "SASTRA houses two technology business incubators (TBI) with the support from Department of Science & Technology (DST) and Department of Biotechnology (DBT).https://www.sastra.edu/research/innovation.html"
+        },
+        {
+            "Question": "Ablest",
+            "Answer": "The Association of Bio-Inspired Leaders and Entrepreneurs at SASTRA-TBI (ABLEST) established in 2020 at a cost of Rs 700 lakh with the support from BIRAC, DBT fosters development of diagnostics and therapeutics. This 5,500 sq.ft. entity has a BSL-3 facility, Next Generation Sequencing, Molecular Biology & Biochemistry facilities, wet lab space, etc., for incubatees to establish proof-of-concept solutions for healthcare. Currently, 12 incubatees are being supported at ABLEST. Both incubators are actively contributing towards combating the pandemic by designing and developing robots for COVID care in isolation wards, drones for disinfection, mobile UV-C sterilizers, oxygen concentrators, 3D printed ventilator splits, face masks & shields, etc."
+        },
+        {
+            "Question": "Location",
+            "Answer": "SASTRA DEEMED UNIVERSITY\nTirumalaisamudram\nThanjavur - 613401\nTamilnadu, India\n\nPlus Code: P2H9+C9 Thanjavur, Tamil Nadu"
+        },
+        {
+            "Question": "Located",
+            "Answer": "SASTRA DEEMED UNIVERSITY\nTirumalaisamudram\nThanjavur - 613401\nTamilnadu, India\n\nPlus Code: P2H9+C9 Thanjavur, Tamil Nadu"
+        },
+        {
+            "Question": "alumini",
+            "Answer": "https://alumni.sastra.edu/"
+        },
+        {
+            "Question": "phone number",
+            "Answer": "91 4362 264101 - 108\n91 4362 350001 (20 Lines)"
+        },
+        {
+            "Question": "phone",
+            "Answer": "91 4362 264101 - 108\n91 4362 350001 (20 Lines)"
+        },
+        {
+            "Question": "courses offered",
+            "Answer": "SASTRA University offers more than 70 courses. Some of the courses offered by the college are B.Com, B.Tech, MBA, MCA and BBA+LLB\nhttps://sastra.edu/academics/programmes/ug-pg.html"
+        },
+        {
+            "Question": "MARG",
+            "Answer": "Hi, Am SASTRA's CHATBOT! How i can Assit you today?"
+        },
+        {
+            "Question": "international",
+            "Answer": "It has been SASTRA’s constant endeavour to globally engage with renowned institutes of research and learning and to establish standards of excellence in academia and research. The Semester Abroad Programme was started in the year 2009 at SASTRA University as the University’s attempt to establish a regular exchange of students with specific foreign universities. Applications for the Semester Abroad Programme ( SAP) are invited in the month of August every year, followed by interviews and the decision communicated to the students in the month of September every year in order to facilitate their paper work for travelling abroad. \n\n"
+        },
+        {
+            "Question": "SAP",
+            "Answer": "It has been SASTRA’s constant endeavour to globally engage with renowned institutes of research and learning and to establish standards of excellence in academia and research. The Semester Abroad Programme was started in the year 2009 at SASTRA University as the University’s attempt to establish a regular exchange of students with specific foreign universities. Applications for the Semester Abroad Programme ( SAP) are invited in the month of August every year, followed by interviews and the decision communicated to the students in the month of September every year in order to facilitate their paper work for travelling abroad. \n"
+        },
+        {
+            "Question": "bus",
+            "Answer": "Bus Facilities are available for Day Scholars.Registration for the BUS facilities will be informed accordingly."
+        },
+        {
+            "Question": "good morning",
+            "Answer": "Greetings! Thanks for Reaching out to SASTRA ! How i can help you?"
+        },
+        {
+            "Question": "good evening",
+            "Answer": "Greetings! Thanks for Reaching out to SASTRA ! How i can help you?"
+        },
+        {
+            "Question": "nothing",
+            "Answer": "That's ok!"
+        },
+        {
+            "Question": "Just messaged",
+            "Answer": "That's ok!"
+        },
+        {
+            "Question": "Send a message",
+            "Answer": "That's ok! You send a message"
+        },
+        {
+            "Question": "Good night",
+            "Answer": "Good Night. TC."
+        },
+        {
+            "Question": "Greetings",
+            "Answer": "Greetings! Thanks for Reaching out to SASTRA ! How i can help you?"
+        },
+        {
+            "Question": "Admission team",
+            "Answer": "Please reach out to our Admission Team 04362 264101-108"
+        },
+        {
+            "Question": "Admission category",
+            "Answer": "There are four admission quotas available at SASTRA. All India Rank, Tamil Nadu Rank, Thanjavur Rank, Trichy Rank. Please check the link for more details https://www.sastra.edu/sastraadmissions/"
+        },
+        {
+            "Question": "admission quota",
+            "Answer": "There are four admission quotas available at SASTRA. All India Rank, Tamil Nadu Rank, Thanjavur Rank, Trichy Rank. Please check the link for more details https://www.sastra.edu/sastraadmissions/"
+        },
+        {
+            "Question": "Management quota",
+            "Answer": "There is no Management quota available at SASTRA. Purely the admission process is based on the Merit & NRI."
+        },
+        {
+            "Question": "Hospital",
+            "Answer": "Vaidyanatha Arogyasala' the in-house hospital with 10 beds and regular doctors caters to the medical need of the students. Two fulltime doctors, one resident doctor besides adequate paramedical staff are available at the hospital. The hospital is adequately equipped with sophisticated equipment and is prepared to meet any medical emergency round the clock. The medical consultation is offered free and is also extended to the nearby villages surrounding SASTRA."
+        },
+        {
+            "Question": "Medical",
+            "Answer": "Vaidyanatha Arogyasala' the in-house hospital with 10 beds and regular doctors caters to the medical need of the students. Two fulltime doctors, one resident doctor besides adequate paramedical staff are available at the hospital. The hospital is adequately equipped with sophisticated equipment and is prepared to meet any medical emergency round the clock. The medical consultation is offered free and is also extended to the nearby villages surrounding SASTRA."
+        },
+        {
+            "Question": "medicine",
+            "Answer": "Vaidyanatha Arogyasala' the in-house hospital with 10 beds and regular doctors caters to the medical need of the students. Two fulltime doctors, one resident doctor besides adequate paramedical staff are available at the hospital. The hospital is adequately equipped with sophisticated equipment and is prepared to meet any medical emergency round the clock. The medical consultation is offered free and is also extended to the nearby villages surrounding SASTRA."
+        },
+        {
+            "Question": "Transport",
+            "Answer": "Its quite easy to reach our university from Trichy or Tanjore. Quite lot of Public transport available.Bus Facilities are available for Day Scholars.Registration for the BUS facilities will be informed accordingly."
+        },
+        {
+            "Question": "commutation",
+            "Answer": "Its quite easy to reach our university from Trichy or Tanjore. Quite lot of Public transport available."
+        },
+        {
+            "Question": "join",
+            "Answer": "Its easy to join any course/programme at SASTRA University. Just based on merit you can be part of University."
+        },
+        {
+            "Question": "loan",
+            "Answer": "Education loan for SASTRA university will be available for graduate and Postgraduate courses.Students can approach any banks for loans after getting fee estimates and bonafide certificates."
+        },
+        {
+            "Question": "loan?",
+            "Answer": "Education loan for SASTRA university will be available for graduate and Postgraduate courses.Students can approach any banks for loans after getting fee estimates and bonafide certificates."
+        },
+        {
+            "Question": "M.Tech Fees",
+            "Answer": "Details for Mtech Fees: https://sastra.edu/admissions/tuition-fees/m-tech.html"
+        }
+    ]
+}
